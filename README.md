@@ -1,2 +1,3 @@
 # SnowFlake
-A C-like compiler from scratch focused on clear diagnostic, readable code, and clear documentation
+SnowFlake a C-like programming language and compiler from scratch in C, designed **simplicity**, **clear diagnostic**, **readable code**, and **clear documentation** on path for self-hosting.
+
